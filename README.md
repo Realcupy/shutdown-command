@@ -8,7 +8,6 @@ type this command
 ```
 touch shutdown.sh
 gedit shutdown.sh or gedit shut (tab key) it will autocomplete the name.
-
 ```
 
 at this point, editor opens up with empty file. 
