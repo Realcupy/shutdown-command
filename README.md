@@ -11,7 +11,7 @@ gedit shutdown.sh or gedit shut (tab key) it will autocomplete the name.
 ```
 
 at this point, editor opens up with empty file. 
-copy the .sh on this repo and paste it inside opened file on your machine and save it. (ctrl + s)
+copy the inside of .sh on this repo and paste it inside opened file on your machine and save it. (ctrl + s)
 
 go back again to terminal and type this command `chmod a+x shutdown.sh`
 
